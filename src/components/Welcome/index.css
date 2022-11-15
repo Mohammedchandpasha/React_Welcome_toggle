@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e293b;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-family: Bree Serif;
+}
+.description {
+  color: #ffffff;
+  font-family: Bree Serif;
+}
